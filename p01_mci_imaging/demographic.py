@@ -29,7 +29,6 @@ if __name__ == '__main__':
 df = df.rename(columns={"Quest_Dx__0.16_cutoff_":"Quest_Dx"}, errors='raise')
 df = df.rename(columns={"A?42_40_Status":"AB42_40"}, errors='raise')
 
-
 #value_counts
 '''
 26 PreMCI Clinical; can we remove?
