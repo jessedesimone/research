@@ -1,2 +1,2 @@
 # Research
-Publicly available research for Jesse DeSimone
+Repository for research publications, conference proceedings, talks, etc.
